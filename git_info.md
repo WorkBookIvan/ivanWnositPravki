@@ -16,4 +16,5 @@
 * git clon -адрес чего копируем 
 * git push -толкать 
 * test
+* git hub 1234
 * 
